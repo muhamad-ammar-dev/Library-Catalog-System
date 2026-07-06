@@ -124,7 +124,7 @@ For questions or suggestions about this project:
 
 - ✉️ **Email**: [muhamad.ammar09001@gmail.com](mailto:muhamad.ammar09001@gmail.com)  
 - 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
-- 🔗 **Portfolio**: [https://muhamedhossafy.github.io/My-Portfolio-DevMA/](https://muhamedhossafy.github.io/My-Portfolio-DevMA/)
+- 🔗 **Portfolio**: [https://muhamad-ammar-dev.github.io/My-Portfolio-DevMA/](https://muhamad-ammar-dev.github.io/My-Portfolio-DevMA/)
 
 ---
 
